@@ -22,20 +22,6 @@ Welcome to the **Fortnite Cheat** repository! This repository contains a collect
   
 - **Item Spawner**: Instantly spawns selected items in the game, giving you quicker access to necessary resources and custom loadouts.
 
-## Installation
-
-To get started with the Fortnite cheat, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/fortnite-cheat.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd fortnite-cheat
-    ```
-3. Follow the specific installation instructions provided in the **Installation** folder. These instructions will guide you through any necessary library installations and game environment configurations.
-
 ## Usage
 
 1. Launch the Fortnite game.
